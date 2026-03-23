@@ -1,16 +1,19 @@
-# myapp
+# Prompt
+Crea una aplicación de inversiones llamada "Investech". El diseño debe ser minimalista, moderno y profesional, utilizando una paleta de colores basada en el Azul Empresarial (Deep Blue: 0xFF0D47A1).
 
-A new Flutter project.
+Estructura de Navegación:
+- Implementa un Scaffold principal con un BottomNavigationBar de 5 botones. Cada botón debe seguir el formato: Icono superior + Texto inferior.
+-Los estados del menú deben ser dinámicos: cuando una opción esté seleccionada, tanto el icono como el texto deben cambiar a color azul brillante; el estado inactivo debe ser gris oscuro.
+- Las 5 categorías son: Empresas, Criptomonedas, ETF, Divisas y Metales.
 
-## Getting Started
+Arquitectura y Rutas:
+- Utiliza Rutas Nombradas en el archivo main.dart.
+- Organiza el proyecto de forma modular: las pantallas deben residir en una carpeta llamada mis_paginas_tab/.
+- Los nombres de los archivos deben seguir la convención: empresas.dart, criptomonedas.dart, etf.dart, divisas.dart y metales.dart.
 
-This project is a starting point for a Flutter application.
+Diseño de Pantallas Individuales:
+- Cada pantalla debe incluir un AppBar con el título de la sección y un botón de retroceso funcional (Navigator.pop).
+- En el cuerpo (body), incluye una imagen hero traída desde la red (usa https://picsum.photos/ con dimensiones de 600x300) que tenga bordes redondeados (BorderRadius.circular(15)).
+- Debajo de la imagen, añade un título descriptivo con tipografía FontWeight.bold y un botón estilizado para regresar a la home.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Capturas

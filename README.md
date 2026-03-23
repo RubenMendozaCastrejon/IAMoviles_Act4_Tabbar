@@ -17,3 +17,9 @@ Diseño de Pantallas Individuales:
 - Debajo de la imagen, añade un título descriptivo con tipografía FontWeight.bold y un botón estilizado para regresar a la home.
 
 # Capturas
+<img width="427" height="729" alt="image" src="https://github.com/user-attachments/assets/99504620-d707-43c6-ae42-c955f7660072" />
+<img width="427" height="727" alt="image" src="https://github.com/user-attachments/assets/2e9c8eef-add6-4166-9453-31ab59dd2967" />
+<img width="423" height="726" alt="image" src="https://github.com/user-attachments/assets/e71b22cc-71a7-4b32-998d-6cf9263b317a" />
+<img width="428" height="735" alt="image" src="https://github.com/user-attachments/assets/168d8850-c786-4993-825e-2bf26133a87f" />
+<img width="423" height="724" alt="image" src="https://github.com/user-attachments/assets/dc1b5494-79c8-4e30-b1f7-e85538a25b66" />
+<img width="423" height="729" alt="image" src="https://github.com/user-attachments/assets/ed0f3716-2f99-4d20-afa7-dfb31cb591aa" />
